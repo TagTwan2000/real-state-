@@ -1,8 +1,7 @@
 Real Estate Homepage Clone
 This project is a clone of the homepage of the Real Estate website. It is built using React and styled with Tailwind CSS. The purpose of this project was to replicate the structure and style of the homepage for learning and practice purposes.
 
-Demo
-You can view the live version of the homepage (if deployed) by clicking here: Demo Link
+
 
 Features
 Responsive layout that adjusts for mobile, tablet, and desktop views.
